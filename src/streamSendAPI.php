@@ -1,7 +1,5 @@
 <?php
 
-namespace TeamEV\StreamSend;
-
 /**
  * This File contains both the SteamSendAPIConnection Class and the StreamSendAPIResponse Class.
  *
